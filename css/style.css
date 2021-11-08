@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(back.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.rounded-box{
+    border-radius: 20px;
+}
